@@ -157,6 +157,19 @@
 	},
 	{
 		"id":"13",
+		"latitude":"55,537261",
+		"longitude":"37,571165",
+		"weight":"1231",
+		"volume":"5,2",
+		"pallet":"5",
+		"info":" 2-ая Мелитопольская 4 а Завтра Коробейников Евгений 89128538365, с 14 до 18",
+		"type":"Москва и область",
+		"address":" 2-ая Мелитопольская 4 а",
+		"client":"ООО _Мир-Пакетов_",
+		"volumeInPallet":"5,2"
+	},
+	{
+		"id":"14",
 		"latitude":"55,604163",
 		"longitude":"37,503361",
 		"weight":"431",
@@ -169,7 +182,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"14",
+		"id":"15",
 		"latitude":"55,610377",
 		"longitude":"38,075947",
 		"weight":"70",
@@ -182,7 +195,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"15",
+		"id":"16",
 		"latitude":"55,75209",
 		"longitude":"37,760512",
 		"weight":"2738",
@@ -195,7 +208,20 @@
 		"volumeInPallet":"12,2"
 	},
 	{
-		"id":"16",
+		"id":"17",
+		"latitude":"55,718375",
+		"longitude":"37,760899",
+		"weight":"144",
+		"volume":"0,8",
+		"pallet":"0",
+		"info":"Москва, 1-й Вязовский проезд, д. 4, стр. 7 . тк Возовоз, 8-800-707-20-02, (499) 705-97-79, с 9-00 до 19-00. ТК Возовоз, тел. 8 800 707 20 02, https://belgorod.vozovoz.ruдо терминала в г.БелгородСтрого без всяких доп. услуг.",
+		"type":"тк Возовоз",
+		"address":"Москва, 1-й Вязовский проезд, д. 4, стр. 7",
+		"client":" ",
+		"volumeInPallet":"0"
+	},
+	{
+		"id":"18",
 		"latitude":"55,464769",
 		"longitude":"37,779754",
 		"weight":"465",
@@ -208,7 +234,7 @@
 		"volumeInPallet":"2,2"
 	},
 	{
-		"id":"17",
+		"id":"19",
 		"latitude":"55,440692",
 		"longitude":"37,634793",
 		"weight":"182",
@@ -221,7 +247,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"18",
+		"id":"20",
 		"latitude":"55,895721",
 		"longitude":"37,502804",
 		"weight":"325",
@@ -234,7 +260,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"19",
+		"id":"21",
 		"latitude":"55,655498",
 		"longitude":"37,926943",
 		"weight":"252",
@@ -247,7 +273,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"20",
+		"id":"22",
 		"latitude":"55,791967",
 		"longitude":"38,18767",
 		"weight":"969",
@@ -260,7 +286,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"21",
+		"id":"23",
 		"latitude":"55,718375",
 		"longitude":"37,760899",
 		"weight":"255",
@@ -273,7 +299,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"22",
+		"id":"24",
 		"latitude":"55,737583",
 		"longitude":"38,010415",
 		"weight":"249",
@@ -286,7 +312,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"23",
+		"id":"25",
 		"latitude":"55,563956",
 		"longitude":"37,767708",
 		"weight":"487",
@@ -299,7 +325,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"24",
+		"id":"26",
 		"latitude":"55,646203",
 		"longitude":"37,834453",
 		"weight":"466",
@@ -312,7 +338,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"25",
+		"id":"27",
 		"latitude":"55,665248",
 		"longitude":"37,874158",
 		"weight":"115",
@@ -325,7 +351,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"26",
+		"id":"28",
 		"latitude":"56,023676",
 		"longitude":"37,936744",
 		"weight":"747",
@@ -338,7 +364,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"27",
+		"id":"29",
 		"latitude":"55,477551",
 		"longitude":"37,735306",
 		"weight":"1871",
@@ -351,7 +377,7 @@
 		"volumeInPallet":"4,1"
 	},
 	{
-		"id":"28",
+		"id":"30",
 		"latitude":"55,623808",
 		"longitude":"37,456954",
 		"weight":"1397",
@@ -364,7 +390,7 @@
 		"volumeInPallet":"3,7"
 	},
 	{
-		"id":"29",
+		"id":"31",
 		"latitude":"55,57491",
 		"longitude":"37,697657",
 		"weight":"3733",
@@ -377,7 +403,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"30",
+		"id":"32",
 		"latitude":"55,64412",
 		"longitude":"37,831641",
 		"weight":"168",
@@ -390,7 +416,7 @@
 		"volumeInPallet":"0,5"
 	},
 	{
-		"id":"31",
+		"id":"33",
 		"latitude":"55,490223",
 		"longitude":"37,594279",
 		"weight":"2947",
@@ -403,7 +429,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"32",
+		"id":"34",
 		"latitude":"55,727034",
 		"longitude":"37,385043",
 		"weight":"3415",
@@ -416,7 +442,7 @@
 		"volumeInPallet":"14,3"
 	},
 	{
-		"id":"33",
+		"id":"35",
 		"latitude":"55,467958",
 		"longitude":"37,728523",
 		"weight":"1557",
@@ -429,7 +455,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"34",
+		"id":"36",
 		"latitude":"55,896231",
 		"longitude":"37,503944",
 		"weight":"1387",
@@ -442,7 +468,7 @@
 		"volumeInPallet":"2,1"
 	},
 	{
-		"id":"35",
+		"id":"37",
 		"latitude":"55,746198",
 		"longitude":"38,258206",
 		"weight":"462",
@@ -455,7 +481,7 @@
 		"volumeInPallet":"2,6"
 	},
 	{
-		"id":"36",
+		"id":"38",
 		"latitude":"55,692759",
 		"longitude":"37,41838",
 		"weight":"668",
@@ -468,7 +494,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"37",
+		"id":"39",
 		"latitude":"55,645781",
 		"longitude":"37,690947",
 		"weight":"786",
@@ -481,7 +507,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"38",
+		"id":"40",
 		"latitude":"59,938676",
 		"longitude":"30,314494",
 		"weight":"13478",
@@ -494,7 +520,7 @@
 		"volumeInPallet":"0"
 	},
 	{
-		"id":"39",
+		"id":"41",
 		"latitude":"55,503211",
 		"longitude":"37,523833",
 		"weight":"270",
